@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "F:\\MyDemo\\NewIMDemo\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\king\\.android\\build-cache\\571bb4b84ed728e008345ee3107d86bc91830aee\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "F:\\MyDemo\\NewIMDemo\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\color_picker_preview_selector.xml",
+        "source": "F:\\MyDemo\\NewIMDemo\\uikit\\build\\intermediates\\bundles\\debug\\res\\color\\color_picker_preview_selector.xml"
+    },
+    {
+        "merged": "F:\\MyDemo\\NewIMDemo\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\king\\.android\\build-cache\\571bb4b84ed728e008345ee3107d86bc91830aee\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "F:\\MyDemo\\NewIMDemo\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\king\\.android\\build-cache\\571bb4b84ed728e008345ee3107d86bc91830aee\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "F:\\MyDemo\\NewIMDemo\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\king\\.android\\build-cache\\571bb4b84ed728e008345ee3107d86bc91830aee\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "F:\\MyDemo\\NewIMDemo\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\king\\.android\\build-cache\\571bb4b84ed728e008345ee3107d86bc91830aee\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "F:\\MyDemo\\NewIMDemo\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\color_green_text_view_selector.xml",
+        "source": "F:\\MyDemo\\NewIMDemo\\uikit\\build\\intermediates\\bundles\\debug\\res\\color\\color_green_text_view_selector.xml"
+    },
+    {
+        "merged": "F:\\MyDemo\\NewIMDemo\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\king\\.android\\build-cache\\571bb4b84ed728e008345ee3107d86bc91830aee\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "F:\\MyDemo\\NewIMDemo\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\king\\.android\\build-cache\\571bb4b84ed728e008345ee3107d86bc91830aee\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "F:\\MyDemo\\NewIMDemo\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\king\\.android\\build-cache\\571bb4b84ed728e008345ee3107d86bc91830aee\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "F:\\MyDemo\\NewIMDemo\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\king\\.android\\build-cache\\571bb4b84ed728e008345ee3107d86bc91830aee\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    }
+]

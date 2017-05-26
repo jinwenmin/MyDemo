@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\MyDemo\\NewIMDemo\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\king\\.android\\build-cache\\571bb4b84ed728e008345ee3107d86bc91830aee\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "F:\\MyDemo\\NewIMDemo\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\touch_bg.xml",
+        "source": "F:\\MyDemo\\NewIMDemo\\uikit\\build\\intermediates\\bundles\\debug\\res\\drawable-v21\\touch_bg.xml"
+    },
+    {
+        "merged": "F:\\MyDemo\\NewIMDemo\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\king\\.android\\build-cache\\571bb4b84ed728e008345ee3107d86bc91830aee\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "F:\\MyDemo\\NewIMDemo\\uikit\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\king\\.android\\build-cache\\571bb4b84ed728e008345ee3107d86bc91830aee\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    }
+]
