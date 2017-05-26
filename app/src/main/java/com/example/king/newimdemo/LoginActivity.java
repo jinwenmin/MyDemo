@@ -7,6 +7,7 @@ import android.util.Log;
 import android.view.View;
 import android.widget.EditText;
 
+import com.imdemo.R;
 import com.netease.nimlib.sdk.NIMClient;
 import com.netease.nimlib.sdk.RequestCallback;
 import com.netease.nimlib.sdk.auth.AuthService;
