@@ -6,4 +6,5 @@ package com.example.king.newimdemo;
 
 public class Hello {
     String name;
+    String age;
 }
